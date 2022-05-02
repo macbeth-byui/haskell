@@ -1,5 +1,6 @@
 # PDL Plan
 
+
 ## Spring 2022 - Learning Haskell
 
 Sprint 1 - Pre Semester & Week 1
